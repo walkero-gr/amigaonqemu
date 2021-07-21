@@ -1,0 +1,10 @@
+*.raw
+*.qcow
+*.qcow2
+*.iso
+*.bin
+*.patch
+*.README
+*.elf
+*.zip
+obsolete/
